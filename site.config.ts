@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SAGG\'s second blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: "SAGG\'s second blog",
+  domain: 'https://www.notion.so/Bolg-SamGGGG-421e71c2019c430f8c315a64f515dd79',
+  author: 'C on Earth-616',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Example Next.js description',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
